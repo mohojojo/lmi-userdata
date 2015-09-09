@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Terence Hill",
+    "email": "pisztaciafagyi@mail.com",
+    "occupation": "Poker player",
+    "birthday": "2000-03-29T18:25:43"
+  },
+  {
+    "id": 2,
+    "name": "Bud Spencer",
+    "email": "hagymasbab@mail.com",
+    "occupation": "Boxer",
+    "birthday": "1929-10-31T18:25:43"
+  }
+]
